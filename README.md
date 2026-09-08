@@ -1,13 +1,31 @@
+# Sources I used to complete this assignment
+
+- [https://www.w3schools.com/css/](https://www.w3schools.com/css/)
+- [https://www.w3schools.com/html/html_css.asp](https://www.w3schools.com/html/html_css.asp)
+- [https://www.w3schools.com/css/css_margin.asp](https://www.w3schools.com/css/css_margin.asp)
+
+---
+---
+
 # MP 0: The Basics
 ### Due: Tuesday, Sep 8, 2026, 11:59PM CT
 
 ## Table of Contents
-1. [Assignment](#assignment)
-2. [Environment Setup](#environment-setup)
-3. [Grading Breakdown](#grading-breakdown)
-4. [Rules](#rules)
-5. [Submission Details](#submission-details)
-6. [Large Language Model (LLM) Usage Policy](#large-language-model-llm-usage-policy)
+- [Sources I used to complete this assignment](#sources-i-used-to-complete-this-assignment)
+- [MP 0: The Basics](#mp-0-the-basics)
+    - [Due: Tuesday, Sep 8, 2026, 11:59PM CT](#due-tuesday-sep-8-2026-1159pm-ct)
+  - [Table of Contents](#table-of-contents)
+  - [Assignment](#assignment)
+      - [Requirements](#requirements)
+      - [Optional](#optional)
+  - [Environment Setup](#environment-setup)
+      - [Set Up a Github Repository](#set-up-a-github-repository)
+    - [Deploying the MP](#deploying-the-mp)
+    - [Pushing Code Changes](#pushing-code-changes)
+  - [Grading Breakdown](#grading-breakdown)
+  - [Rules](#rules)
+  - [Submission Details](#submission-details)
+  - [Large Language Model (LLM) Usage Policy](#large-language-model-llm-usage-policy)
 
 ## Assignment
 This assignment designed to help you set up your development environment. You will build a simple card using only HTML/CSS. The card will look like [this example](http://i.imgur.com/aeKrEga.png) except with your own details.
